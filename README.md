@@ -58,7 +58,7 @@ I am a Cloud Solutions Architect with 25 years of engineering leadership, bridgi
 
 ## 📦 Featured Repositories
 
-* **[qdrant-memory-mcp]([https://github.com/dschmidtadv/qdrant-memory-mcp](https://github.com/dschmidtadv/qdrant-memory-mcp)):** Custom Model Context Protocol (MCP) server providing persistent semantic memory and vector indexing via Qdrant for AI coding agents.
+* **[https://github.com/dschmidtadv/qdrant-memory-mcp]:** Custom Model Context Protocol (MCP) server providing persistent semantic memory and vector indexing via Qdrant for AI coding agents.
 * **[charts](https://github.com/dschmidtadv/charts):** Curated Kubernetes Helm chart orchestration and cloud-native application deployments.
 * **[drupal-devcontainer](https://github.com/dschmidtadv/drupal-devcontainer):** Standardized local containerized development environments for complex web platforms.
 * **[serverless-broken-link-checker](https://github.com/dschmidtadv/serverless-broken-link-checker):** Event-driven AWS Lambda telemetry and status validation for high-traffic public properties.
